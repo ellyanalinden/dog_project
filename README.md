@@ -13,8 +13,8 @@ To build CNN from scratch and using transfer learning to classify dogs breed
 PyTorch Framework
 
 # Results & Conclusion
-Scratch CNN, I followed AlexNet architecture, and the accuracy of this architecture is 18%
-Transfer learning CNN, I used DenseNet 161, and the accuracy is 89%
+Scratch CNN, I followed AlexNet architecture, and the accuracy of this architecture is 18%.
+<\br\>Transfer learning CNN, I used DenseNet 161, and the accuracy is 89%
 
 # References
 * Udacity Deep Learning Nanodegree Program
