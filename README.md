@@ -16,7 +16,7 @@ PyTorch Framework
 Scratch CNN, I followed AlexNet architecture, and the accuracy of this architecture is 18%
 Transfer learning CNN, I used DenseNet 161, and the accuracy is 89%
 
-References
+# References
 * Udacity Deep Learning Nanodegree Program
 * Shi, W., Chen, J., Liu, M., and Liu, F. Dog breed identification. http://noiselab.ucsd.edu/ECE228/Reports/Report18.pdf
 * https://www.cs.virginia.edu/~vicente/recognition/notebooks/image_processing_lab.html
