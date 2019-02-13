@@ -14,7 +14,7 @@ PyTorch Framework
 
 # Results & Conclusion
 Scratch CNN, I followed AlexNet architecture, and the accuracy of this architecture is 18%.
-<\br\>Transfer learning CNN, I used DenseNet 161, and the accuracy is 89%
+</br/>Transfer learning CNN, I used DenseNet 161, and the accuracy is 89%
 
 # References
 * Udacity Deep Learning Nanodegree Program
